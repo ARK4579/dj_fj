@@ -11,7 +11,9 @@ dependencies:
   path: ^1.7.0
   flutter:
     sdk: flutter
-  dj: 0.0.9
+  # dj: 0.0.9
+  dj:
+    path: ../dj
 
 dev_dependencies:
   json_serializable: ^4.1.0
