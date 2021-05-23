@@ -6,3 +6,4 @@ library dj_fj;
 export 'src/dj_fj_base.dart';
 
 // TODO: Export any libraries intended for clients of this package.
+export 'package:dj/dj.dart';
